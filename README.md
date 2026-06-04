@@ -144,4 +144,4 @@ make clean      # remove build/
 
 ## License
 
-No license file is currently included in this repository.
+This is under the LGPL2.1, see LICENSE in the repo.
